@@ -16,6 +16,7 @@ Build and compare multiple classification models.
 Evaluate model performance using appropriate classification metrics.
 Identify customers with a high probability of churn.
 Generate business insights that can support customer retention strategies.
+
 🔍 Key Areas of Analysis
 
 The project analyzes different aspects of customer behavior, including:
