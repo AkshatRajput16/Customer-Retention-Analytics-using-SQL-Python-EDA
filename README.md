@@ -1,4 +1,5 @@
 OTT Customer Churn Prediction & Business Analytics
+
 📌 Project Overview
 
 This project focuses on predicting customer churn for an OTT streaming platform using machine learning and business analytics.
@@ -40,6 +41,7 @@ NumPy – Numerical operations
 Matplotlib & Seaborn – Data visualization
 Scikit-learn – Machine learning
 Jupyter Notebook – Development and analysis
+
 🔄 Project Workflow
 Raw Data
    ↓
@@ -60,31 +62,6 @@ Model Evaluation
 Churn Prediction
    ↓
 Business Insights
-🤖 Machine Learning
-
-The project uses classification algorithms to predict whether a customer is likely to churn.
-
-Models can include:
-
-Logistic Regression
-Decision Tree
-Random Forest
-Gradient Boosting
-Support Vector Machine
-K-Nearest Neighbors
-Ensemble/Stacking models
-
-Models are compared using metrics such as:
-
-Accuracy
-Precision
-Recall
-F1-Score
-ROC-AUC
-Confusion Matrix
-
-For churn prediction, particular attention is given to Recall and F1-Score, since failing to identify a customer who is actually going to churn can have a direct business cost.
-
 
 📈 Results
 
