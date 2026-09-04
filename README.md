@@ -9,6 +9,7 @@ Customer churn refers to customers who stop using or subscribing to the platform
 The project combines data preprocessing, exploratory data analysis (EDA), feature engineering, machine learning, and business insights to build a practical churn prediction solution.
 
 🎯 Objectives
+
 Analyze customer behavior and identify factors associated with churn.
 Clean and preprocess customer transaction and usage data.
 Perform exploratory data analysis to discover important patterns.
