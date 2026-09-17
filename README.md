@@ -1,4 +1,4 @@
-OTT Customer Churn Prediction & Business Analytics
+OTT Customer Churn Prediction & Business Analytic
 
 📌 Project Overview
 
