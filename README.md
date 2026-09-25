@@ -1,5 +1,4 @@
 OTT Customer Churn Prediction & Business Analytics
-
 📌 Project Overview
 
 This project focuses on predicting customer churn for an OTT streaming platform using machine learning and business analytics.
