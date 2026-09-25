@@ -3,7 +3,7 @@ OTT Customer Churn Prediction & Business Analytics
 
 This project focuses on predicting customer churn for an OTT streaming platform using machine learning and business analytics.
 
-Customer churn refers to customers who stop using or subscribing to the platform. Predicting churn in advance can help an OTT business identify customers who are likely to leave and take preventive actions such as personalized offers, content recommendations, or retention campaigns.
+Customer churn refers to customers who stop using or subscribing to the platform. Predicting churn in advance can help an OTT business identify customers who are likely to leave and take preventive actions such as personalized offer, content recommendations, or retention campaigns.
 
 The project combines data preprocessing, exploratory data analysis (EDA), feature engineering, machine learning , and business insights to build a practical churn prediction solution.
 
